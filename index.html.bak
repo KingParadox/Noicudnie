@@ -21,7 +21,7 @@
     <meta property="og:type" content="beauty" />
     <meta property="og:url" content="" />
     <meta property="og:site_name" content="No I Cudnie Gabinet Kosmetyczny Oliwia Jarnut" />
-    <meta property="og:image" content="https://i.ibb.co/gd3kFG5/logo.png" />
+    <meta property="og:image" content="https://i.ibb.co/PFF48pR/landing.png" />
     <meta property="og:description" content="No i cudnie to gabinet kosmetyczny, który nie przyczynia się do krzywdy zwierząt, a wszystkie kosmetyki są wegańskie, wegetariańskie i 'cruelty free'." />
     <meta property="fb:app_id" content="280980789928670" />
 </head>
@@ -127,37 +127,25 @@
         <section class="social">
             <div class="w3-container w3-center">
                 <div class=" w3-row">
-                    <div class="w3-col m3">
+                    <div class="w3-col m2">
 
-                        <a href="https://www.facebook.com/HeadFuryGames/">
+                        <a href="https://www.facebook.com/NOICUDNIE.OLIWIAJARNUT">
                             <i class=" fa fa-facebook" w3-padding-small" style='font-size:40px'>
                             </i>
                         </a>
                         <h3 class="notranslate">Facebook</h3>
 
                     </div>
-                    <div class="w3-col m3">
+                    <div class="w3-col m2">
 
-                        <a href="https://discord.gg/xmwWzbZ">
+                        <a href="https://www.instagram.com/noicudnie_oliwiajarnut/">
                             <i class=" fa fa-instagram" w3-padding-small" style='font-size:40px'>
                             </i>
                         </a>
                         <h3 class="notranslate">Instagram</h3>
 
                     </div>
-                    <div class="w3-col m3">
-
-                        <a href="https://www.youtube.com/channel/UCjAn6_5pyDuNgFeJSxYLnWQ/"><i class="fa fa-youtube" w3-padding-small" style='font-size:40px'></i></a>
-                        <h3 class="notranslate">Youtube</h3>
-
-                    </div>
-
-                    <div class="w3-col m3">
-
-                        <a href="https://twitter.com/head_fury">
-                            <i class="fa fa-twitter" w3-padding-small" style='font-size:40px'></i>
-                        </a>
-                            <h3 class="notranslate">Twitter</h3>
+                   
 
 </div>
 
@@ -213,7 +201,7 @@
 		  <br />
 
     <!-- FOOTER -->
-    <footer class="footer w3-purple w3-padding-large w3-center">
+    <footer class="footer w3-deep-purple w3-padding-large w3-center">
         <p class="notranslate">No i cudnie &copy; 2021 </p>
     </footer>
 </body>
