@@ -1,0 +1,220 @@
+﻿<!doctype html>
+<html lang="pl">
+<head>
+   
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="media\logo.png" />
+    <link rel="canonical" href="https://noicudnie.pl/" />
+
+    <title>No I Cudnie - Gabinet Kosmetyczny Oliwia Jarnut</title>
+
+    <meta charset="UTF-8">
+    <meta name="description" content="No i cudnie to gabinet kosmetyczny, który nie przyczynia się do krzywdy zwierząt, a wszystkie kosmetyki są wegańskie, wegetariańskie i 'cruelty free'.">
+    <meta name="keywords" content="no i cudnie, gabinet kosmetyczny, cruelty free">
+    <meta name="author" content="Robert Wesoły">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="gtJJFJgXG3Nq9iwAz9OLOqMY9LEhhyRnVj9O-2_KcJQ" />
+
+    <meta property="og:title" content="No i cudnie" />
+    <meta property="og:type" content="beauty" />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="No I Cudnie Gabinet Kosmetyczny Oliwia Jarnut" />
+    <meta property="og:image" content="https://i.ibb.co/gd3kFG5/logo.png" />
+    <meta property="og:description" content="No i cudnie to gabinet kosmetyczny, który nie przyczynia się do krzywdy zwierząt, a wszystkie kosmetyki są wegańskie, wegetariańskie i 'cruelty free'." />
+    <meta property="fb:app_id" content="280980789928670" />
+</head>
+<body>
+
+    
+    <!-- NAVIGATION -->
+    <div class="nav notranslate w3-card-2 w3-center">
+	 <span class="branding w3-bar-item w3-center w3-mobile w3-padding"><a href="index.html"> <img class="branding" src="media\logo-webicon.png" alt="nic"></a> </span>
+        <span class="w3-mobile w3-opacity">
+            <a href="index.html#about" class=" w3-bar-item w3-button w3-mobile w3-hover-pink"><b><b>O nas</b></b></a>
+            <a href="index.html#gallery" class="is-hidden-mobile w3-bar-item w3-button w3-mobile w3-hover-pink"><b><b>Galeria</b></b></a>
+            <a href="index.html#social" class="is-hidden-mobile w3-bar-item w3-button w3-mobile w3-hover-pink"><b><b>Media społecznościowe</b></b></a>
+			<a href="index.html#contact" class="is-hidden-mobile w3-bar-item w3-button w3-mobile w3-hover-pink"><b><b>Kontakt</b></b></a>
+        </span>
+		
+    </div>
+
+
+
+    <!-- LANDING -->
+    <section class=" landing w3-card-2">
+	<div class="w3-display-container">
+  <img src="media\landingbg.jpg" alt="Lights" style="width: 100%;">
+
+  <div class="w3-display-middle w3-center"><img src="media\landing.png" alt="Logo" style="width: 100%;"></div>
+
+</div>
+    </section>
+    <br /> <br />
+
+    
+        <br />
+        <br />
+		
+		
+		<!-- ABOUT -->
+	<section id="about" class="about w3-row">
+					<br />
+        <div class="w3-display-container w3-col w3-card-2 w3-right">
+				<img src="media\about.png" alt="oliwia" style="width:100%;">
+				<div class="w3-display-left w3-twothird w3-padding-64 w3-center" style="text-size-adjust: auto;"><h1 class="w3-center"> <b> <b><i>No i Cudnie</i></b> <br />to gabinet, który nie przyczynia się do krzywdy zwierząt, 
+																										<br /> a wszystkie kosmetyki są wegańskie, wegetariańskie i "cruelty free"</b></h1>
+        </div>
+			</div>
+		
+					<br />
+    </section>
+	
+	
+		<br /> 
+		<br />
+        <br />
+        <br />
+		
+		
+		
+	<!-- GALLERY -->
+		
+	<div id="gallery" class="gallery w3-padding-64 w3-content">
+		<div class="w3-row-padding  w3-card-2 w3-theme-d2" style="margin:0 -16px; width: 100%;">
+		<h1 class="w3-center"> Galeria zdjęć </h1>
+				<br />
+			<div class="w3-half">
+        <img class="w3-mobile" src="media\galeria\1.jpeg" style="width:100%">
+        <img class="w3-mobile" src="media\galeria\5.jpeg" style="width:100%">
+        <img class="w3-mobile" src="media\galeria\3.jpeg" style="width:100%">
+		<img class="w3-mobile" src="media\galeria\9.jpeg" style="width:100%">
+        <img class="w3-mobile" src="media\galeria\10.jpeg" style="width:100%">
+			</div>
+
+			<div class="w3-half" style="padding-bottom: 20px;">
+        <img class="w3-mobile" src="media\galeria\4.jpeg" style="width:100%">
+        <img class="w3-mobile" src="media\galeria\8.jpeg" style="width:100%">
+        <img class="w3-mobile" src="media\galeria\6.jpeg" style="width:100%">
+        <img class="w3-mobile" src="media\galeria\7.jpeg" style="width:100%">
+        <img class="w3-mobile" src="media\galeria\2.jpeg" style="width:100%">     
+			</div>
+	  
+		</div>
+	 </div>
+	  
+	  
+	    <br />
+		<br />
+		  
+	<hr>
+		  
+    <!-- SOCIAL-->
+	
+    <section id="social" class="social showcase w3-card-2 w3-display">
+	
+	<br />
+        <div class="social w3-container w3-center">
+
+            <h2 class='notranslate w3-animate-opacity w3-center'>Media społecznościowe</h2>
+            <p class="w3-animate-opacity w3-center">Tutaj możesz nas znaleźć</p>
+        </div>
+
+        <br />
+        <br />
+        <!-- SOCIAL TYPES-->
+        <section class="social">
+            <div class="w3-container w3-center">
+                <div class=" w3-row">
+                    <div class="w3-col m3">
+
+                        <a href="https://www.facebook.com/HeadFuryGames/">
+                            <i class=" fa fa-facebook" w3-padding-small" style='font-size:40px'>
+                            </i>
+                        </a>
+                        <h3 class="notranslate">Facebook</h3>
+
+                    </div>
+                    <div class="w3-col m3">
+
+                        <a href="https://discord.gg/xmwWzbZ">
+                            <i class=" fa fa-instagram" w3-padding-small" style='font-size:40px'>
+                            </i>
+                        </a>
+                        <h3 class="notranslate">Instagram</h3>
+
+                    </div>
+                    <div class="w3-col m3">
+
+                        <a href="https://www.youtube.com/channel/UCjAn6_5pyDuNgFeJSxYLnWQ/"><i class="fa fa-youtube" w3-padding-small" style='font-size:40px'></i></a>
+                        <h3 class="notranslate">Youtube</h3>
+
+                    </div>
+
+                    <div class="w3-col m3">
+
+                        <a href="https://twitter.com/head_fury">
+                            <i class="fa fa-twitter" w3-padding-small" style='font-size:40px'></i>
+                        </a>
+                            <h3 class="notranslate">Twitter</h3>
+
+</div>
+
+                </div>
+            </div>
+        </section>
+		<br />
+    </section>
+<hr>
+<br /><br /><br />
+
+<!-- CONTACT -->
+		  
+
+		  <section id="contact" class="contact w3-card w3-row">
+		  <div class="w3-col w3-container" style="width:15%"></div>
+		  <div class="w3-mobile w3-third w3-padding-64 w3-margin">
+		  
+		  <table class="table w3-table w3-center" >
+<tr>
+  <th>Kontakt: </th>
+  <th>Godziny otwarcia: </th>
+</tr>
+<tr>
+  <td>No i cudnie Oliwia Jarnut</td>
+  <td>Pon.-Pt. 9-19</td>
+</tr>
+<tr>
+<td>Ul.Batorego 16/7</td>
+<td>Sobota 9-15</td>
+</tr>
+<tr>
+<td>65-001 Zielona Góra</td>
+<td>Niedziela nieczynne</td>
+</tr>
+<tr>
+<td>Tel. 662-564-111</td>
+</tr>
+<tr>
+<td>noicudnie@gmail.com</td>
+</tr>
+</table>
+
+		  </div>
+		  <div class="w3-rest w3-padding w3-center">
+		  <iframe class="w3-mobile" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d750.1688731696012!2d15.502401624509757!3d51.943709967754614!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470613e7c8f7e87b%3A0xf64758971785bd12!2sStefana%20Batorego%2016%2C%2065-084%20Zielona%20G%C3%B3ra!5e1!3m2!1spl!2spl!4v1636560372331!5m2!1spl!2spl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+		  </div>
+		  
+		  </section>
+		  
+		  
+		  <br />
+		  <br />
+
+    <!-- FOOTER -->
+    <footer class="footer w3-purple w3-padding-large w3-center">
+        <p class="notranslate">No i cudnie &copy; 2021 </p>
+    </footer>
+</body>
+</html>
